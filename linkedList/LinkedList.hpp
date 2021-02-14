@@ -1,6 +1,6 @@
 /**
-*	@author
-*	@date
+*	Mason Hawks
+*	2/13/2021
 *	@file LinkedList.hpp
 *	@brief Implementation file for templated LinkedList class
 */
